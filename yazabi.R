@@ -1,0 +1,2 @@
+print(yazabi)
+printf(iwa)
